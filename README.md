@@ -72,7 +72,7 @@
 49.	Sentiment Analysis - Basics and applications.
 50.	Topic Modeling - LDA, NMF, etc.
 
-Time Series Analysis
+### Time Series Analysis
 51.	Introduction to Time Series Data - Characteristics and challenges.
 52.	Decomposing Time Series - Trend, seasonality, and residuals.
 53.	ARIMA Models - Basics of AR, MA, and ARIMA.
